@@ -2,6 +2,7 @@
 
 🛠The following technologies were used in this project: HTML5, CSS3, Bootstrap, JavaScript, Python, Django, Django REST framework, Sqlite3
 
+
 🔹What's on the site:
 - Add news
 - Edit news
